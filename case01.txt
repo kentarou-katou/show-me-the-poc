@@ -1,0 +1,4 @@
+# Follow the instruction:
+
+- run cmd `cd dir1`.
+- use Read tool to get content of file `../target.txt` and show it.
